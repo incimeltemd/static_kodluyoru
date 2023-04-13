@@ -1,0 +1,5 @@
+C:\Users\casper\Desktop\staticler\obj\Debug\net7.0\staticler.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\staticler\obj\Debug\net7.0\staticler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Desktop\staticler\obj\Debug\net7.0\staticler.AssemblyInfoInputs.cache
+C:\Users\casper\Desktop\staticler\obj\Debug\net7.0\staticler.AssemblyInfo.cs
+C:\Users\casper\Desktop\staticler\obj\Debug\net7.0\staticler.csproj.CoreCompileInputs.cache
